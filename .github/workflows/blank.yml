@@ -7,7 +7,7 @@ on:
     branches: [ "master" ]
 
 env:
-  DOCKERHUB_REPO: minthcm/minthcm
+  DOCKERHUB_REPO: waveoffire/minthcm
 
 jobs:
   build:
